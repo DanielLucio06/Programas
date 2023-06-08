@@ -19,4 +19,4 @@ int main (void)
         root2 = 0.0;
         printf("");
     }
-}//main
+}
